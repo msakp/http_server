@@ -1,1 +1,1 @@
-# http server in c++
+# c++ simple library for http servers
